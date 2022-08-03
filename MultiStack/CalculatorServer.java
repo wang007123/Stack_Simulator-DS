@@ -1,5 +1,3 @@
-//Distributed System Assignment 1
-//a1694827 zhenghui wang
 import java.rmi.*;
 import java.util.*;
 import java.rmi.registry.Registry;
